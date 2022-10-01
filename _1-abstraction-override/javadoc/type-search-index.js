@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"it.develhope.abstactionOverride","l":"Boat"},{"p":"it.develhope.abstactionOverride","l":"Car"},{"p":"it.develhope.abstactionOverride","l":"Start"},{"p":"it.develhope.abstactionOverride","l":"Vehicle"}];updateSearchResults();
